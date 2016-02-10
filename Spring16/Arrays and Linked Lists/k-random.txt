@@ -1,0 +1,1 @@
+Given a linked list of integers, return k distinct elements randomly. If k > n, then return n elements. You can assume that the linked list has distinct elements.

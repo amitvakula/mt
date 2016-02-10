@@ -1,0 +1,4 @@
+You are given a linked list of integers. Sum up all of the elements following a "0" and multiply up the elements following two consecutive 0's. Make these sums/products nodes of a new linked list. Can you do this destructively? (If the first element is not a 0, make that element its own node in the resulting linked list).
+
+Example: Input --> A[] = [1, 2, 3, 0, 34, 6, 0, 0, 4, 2, 6, 0, 5]
+         Output --> [1, 2, 3, 40, 48, 5]

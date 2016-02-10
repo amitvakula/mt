@@ -1,0 +1,12 @@
+There are many solutions to these problems, but try to come 
+up with the fastest algorithm possible!
+
+1) Recursively reverse a singly-linked list in-place.
+2) Return the item contained in the middle node of a singly-linked list.
+3) Destructively remove duplicate items from an unosorted singly-linked list.
+4) Given some int k, rotate a singly-linked list by k nodes. For example, 
+    given k = 3 and some list 1->2->3->4->5, your method should return 
+    4->5->1->2->3.
+5) Write a method insertSorted(Comparable obj) that inserts the given object
+    into the list such that the list remains sorted.
+
